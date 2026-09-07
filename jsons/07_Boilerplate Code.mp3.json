@@ -1,0 +1,1657 @@
+{
+    "chunks": [
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 0.0,
+            "end": 5.72,
+            "text": " Next thing we are going to read in HTML is our HTML boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 5.72,
+            "end": 10.18,
+            "text": " HTML or any other programming language means boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 10.18,
+            "end": 14.92,
+            "text": " That code is going to be written from now on before we write HTML code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 14.92,
+            "end": 19.14,
+            "text": " If we want to make any file in which we will write any HTML code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 19.14,
+            "end": 24.240000000000002,
+            "text": " then this is the first part of HTML that we will have to write."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 24.240000000000002,
+            "end": 27.34,
+            "text": " Every language has its own boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 27.36,
+            "end": 32.22,
+            "text": " If you want to write Java, then Java has a boilerplate and C++ has a boilerplate."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 32.22,
+            "end": 35.74,
+            "text": " It is a basic template that we always have to write."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 35.74,
+            "end": 42.86,
+            "text": " We can call it the standard format or skeleton of writing HTML code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 42.86,
+            "end": 47.980000000000004,
+            "text": " Our HTML code also has a basic structure that we have to prepare first."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 47.980000000000004,
+            "end": 51.82,
+            "text": " We have to write tags directly from the file."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 51.82,
+            "end": 53.82,
+            "text": " We don't have to start writing tags."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 53.82,
+            "end": 58.22,
+            "text": " For example, in the beginning we made a paragraph tag or another tag in the first line."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 58.22,
+            "end": 60.22,
+            "text": " We don't have to approach it in that way."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 60.22,
+            "end": 63.58,
+            "text": " We have to write all the things systematically in HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 63.58,
+            "end": 67.58,
+            "text": " We write this line above the HTML file."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 67.58,
+            "end": 72.06,
+            "text": " In this line we write something like exclamation, doc type HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 72.06,
+            "end": 76.22,
+            "text": " The basic meaning of this line is that we are using HTML5."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 76.22,
+            "end": 81.66,
+            "text": " That is, it tells the entire document which version is being used and which version is being used."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 81.74,
+            "end": 85.66,
+            "text": " For example, we have versions in games or we update apps like WhatsApp."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 85.66,
+            "end": 87.66,
+            "text": " By the way, HTML is also updated."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 87.66,
+            "end": 92.38,
+            "text": " And the updated version of HTML which we use is our version 5."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 92.38,
+            "end": 95.1,
+            "text": " We represent it through this line."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 95.1,
+            "end": 99.17999999999999,
+            "text": " After that, the tag we write is my HTML tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 99.17999999999999,
+            "end": 104.06,
+            "text": " The HTML tag writes the entire code inside."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 104.06,
+            "end": 109.42,
+            "text": " All the other things we are going to write will be written in the HTML tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 109.66,
+            "end": 113.9,
+            "text": " In a way, we can call the HTML tag as our root tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 113.9,
+            "end": 115.9,
+            "text": " Now, where does this root word come from?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 115.9,
+            "end": 119.18,
+            "text": " Root means root or any part of any code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 119.18,
+            "end": 125.74000000000001,
+            "text": " Whenever we talk about the code of HTML, we write this tag above which we call the HTML tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 125.74000000000001,
+            "end": 129.9,
+            "text": " In the HTML tag, we write this tag which we call the head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 129.9,
+            "end": 133.74,
+            "text": " In the HTML tag, there is a hierarchical structure."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 133.74,
+            "end": 137.58,
+            "text": " In the head tag, I have written this tag which we call the title tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 137.66000000000003,
+            "end": 142.22,
+            "text": " In this way, we can arrange our tags level wise."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 142.22,
+            "end": 148.22000000000003,
+            "text": " We call this arrangement a hierarchical arrangement."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 148.22000000000003,
+            "end": 152.14000000000001,
+            "text": " Like our grandfather comes under our grandfather's father's generation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 152.14000000000001,
+            "end": 155.10000000000002,
+            "text": " Our generation comes under the father's generation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 155.10000000000002,
+            "end": 160.54000000000002,
+            "text": " So, what form and hierarchy form is there in which you make a diagram, then there are levels."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 160.54000000000002,
+            "end": 163.42000000000002,
+            "text": " Similarly, the levels come in our HTML tags."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 163.42,
+            "end": 170.29999999999998,
+            "text": " We can see which tag comes up or comes out or comes down."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 170.29999999999998,
+            "end": 175.89999999999998,
+            "text": " In this hierarchical arrangement, the top level which is placed on, we call it root."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 175.89999999999998,
+            "end": 179.73999999999998,
+            "text": " Who will be the root here? Our HTML tag will be the root here."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 179.73999999999998,
+            "end": 184.38,
+            "text": " Because this is the first valid tag with which we start our HTML code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 184.38,
+            "end": 188.14,
+            "text": " Whenever we write our HTML code, we will write the first doc type."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 188.22,
+            "end": 193.33999999999997,
+            "text": " Then we will write the HTML tag and then the code will be in our HTML tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 193.33999999999997,
+            "end": 197.82,
+            "text": " The first tag we write in the HTML tag is our head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 197.82,
+            "end": 204.94,
+            "text": " We write this tag and in the head tag, all our information or extra information goes."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 204.94,
+            "end": 210.94,
+            "text": " Like if I want to link CSS with HTML,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 210.94,
+            "end": 216.29999999999998,
+            "text": " If I want to tell the styling of any website, then the styling will be told in the head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 216.46,
+            "end": 221.5,
+            "text": " If I want to link JavaScript with HTML, then we will be linking it in the head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 221.5,
+            "end": 229.34,
+            "text": " That is, the linking of the other files or any extra information which we have to display on the browser or on our web page."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 229.34,
+            "end": 231.5,
+            "text": " But we should have extra information."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 231.5,
+            "end": 234.62,
+            "text": " We write that information in our head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 234.62,
+            "end": 239.98000000000002,
+            "text": " So, we can say this head tag in a way that we store our metadata in it."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 239.98000000000002,
+            "end": 243.66000000000003,
+            "text": " Metadata means data about data."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 243.66,
+            "end": 248.7,
+            "text": " That is, the HTML code which we want to store,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 248.7,
+            "end": 252.06,
+            "text": " Like where the styling comes from, where the functionality comes from."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 252.06,
+            "end": 257.26,
+            "text": " And in this head tag, there is one tag which we always define for our web pages."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 257.26,
+            "end": 259.1,
+            "text": " That is my title tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 259.1,
+            "end": 263.02,
+            "text": " The title means that this is the title of our web page."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 263.02,
+            "end": 267.82,
+            "text": " You can understand the title by searching for any website on Google."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 267.82,
+            "end": 270.3,
+            "text": " Let's say I searched for Amazon.com on Google."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 270.38,
+            "end": 271.66,
+            "text": " So, what will Google do?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 271.66,
+            "end": 275.34000000000003,
+            "text": " Google will search the search query on the basis of this title."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 275.34000000000003,
+            "end": 279.18,
+            "text": " That is why the title's name should be very relevant."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 279.18,
+            "end": 284.86,
+            "text": " That is, if you want to display the same name on your page, then you have to give your title."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 284.86,
+            "end": 288.14,
+            "text": " And this title's name never displays on the website."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 288.14,
+            "end": 295.02,
+            "text": " That is, if you write my first page, then this title will not display on your main web page."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 295.02,
+            "end": 298.3,
+            "text": " It displays on the top of the tab from the website."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 298.38,
+            "end": 299.98,
+            "text": " Let's take an example of this."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 299.98,
+            "end": 302.54,
+            "text": " Let's say we opened a website on Netflix.com."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 302.54,
+            "end": 306.94,
+            "text": " Now, on Netflix.com, when this type of website opens,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 306.94,
+            "end": 309.5,
+            "text": " It is written on the top that it is the icon of Netflix."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 309.5,
+            "end": 313.5,
+            "text": " Netflix India Watch TV Shows Online Watch Movies Online."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 313.5,
+            "end": 315.90000000000003,
+            "text": " So, the one which is displayed on the top,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 315.90000000000003,
+            "end": 319.26,
+            "text": " This is the title of my main web page of Netflix."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 319.26,
+            "end": 323.90000000000003,
+            "text": " So, the title shows us what is actually going to be on the web page."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 323.9,
+            "end": 328.78,
+            "text": " That is why the title's name should be very relevant for our projects or websites."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 328.78,
+            "end": 332.06,
+            "text": " Next thing we will talk about is my body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 332.06,
+            "end": 335.02,
+            "text": " Now, if we want, we can divide HTML into two parts."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 335.02,
+            "end": 337.97999999999996,
+            "text": " One is our head tag and one is our body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 337.97999999999996,
+            "end": 342.53999999999996,
+            "text": " In the head tag, all the things that are not displayed on the website are not displayed."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 342.53999999999996,
+            "end": 345.34,
+            "text": " And in these things, our metadata is stored."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 345.34,
+            "end": 347.97999999999996,
+            "text": " We will do metadata with this."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 348.06,
+            "end": 351.02000000000004,
+            "text": " And those things are shown on our body tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 351.02000000000004,
+            "end": 354.38,
+            "text": " Which actually display on our web page."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 354.38,
+            "end": 356.46000000000004,
+            "text": " For example, if I want to write a paragraph tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 356.46000000000004,
+            "end": 358.14000000000004,
+            "text": " Then it will come inside the body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 358.14000000000004,
+            "end": 361.18,
+            "text": " If I want to write a heading tag, then it will also come inside the body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 361.18,
+            "end": 365.18,
+            "text": " Or there is another tag, like if we want to learn how to make many tags,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 365.18,
+            "end": 366.46000000000004,
+            "text": " We will learn how to make lists,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 366.46000000000004,
+            "end": 367.98,
+            "text": " We will learn how to make forms,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 367.98,
+            "end": 369.42,
+            "text": " We will learn how to make tables,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 369.42,
+            "end": 372.3,
+            "text": " We will learn how to make buttons, images, many things."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 372.3,
+            "end": 376.14000000000004,
+            "text": " So, we are writing all those tags inside my body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 376.21999999999997,
+            "end": 379.34,
+            "text": " So, like this paragraph tag, we have written it inside the body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 379.34,
+            "end": 382.86,
+            "text": " So, there is a general layout, which we always follow,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 382.86,
+            "end": 385.34,
+            "text": " Whenever we want to write our HTML code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 385.34,
+            "end": 391.02,
+            "text": " Now, what we do is, we are going to generate this HTML boilerplate code inside our VS code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 391.02,
+            "end": 394.86,
+            "text": " So, we have made a very simple file, this is classroom.html."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 394.86,
+            "end": 399.74,
+            "text": " And on our VS code, there is a shortcut to generate this boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 399.74,
+            "end": 401.41999999999996,
+            "text": " That is, we can simply do this,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 401.41999999999996,
+            "end": 403.65999999999997,
+            "text": " We can simply press exclamation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 403.74,
+            "end": 411.74,
+            "text": " On our keyboard, if you type this sign on the screen,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 411.74,
+            "end": 415.82000000000005,
+            "text": " Then you will see some options, we call them emits."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 415.82000000000005,
+            "end": 418.3,
+            "text": " Emits means that this is a short form."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 418.3,
+            "end": 422.62,
+            "text": " If you write an exclamation inside the HTML code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 422.62,
+            "end": 427.82000000000005,
+            "text": " Then you are telling the VS code that you want to generate boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 427.82000000000005,
+            "end": 430.38,
+            "text": " And in fact, HTML will show you that,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 430.46,
+            "end": 435.65999999999997,
+            "text": " You are trying to generate this code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 435.65999999999997,
+            "end": 437.18,
+            "text": " And what can you do now?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 437.18,
+            "end": 440.3,
+            "text": " Either you can click on the blue line highlight,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 440.3,
+            "end": 445.18,
+            "text": " Or you can enter or whatever is on our Mac,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 445.18,
+            "end": 447.65999999999997,
+            "text": " You can press anything from the enter or return,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 447.65999999999997,
+            "end": 448.94,
+            "text": " Otherwise, the easiest option is,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 448.94,
+            "end": 451.65999999999997,
+            "text": " Click on this option blue line."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 451.65999999999997,
+            "end": 452.94,
+            "text": " So, what happened by clicking?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 452.94,
+            "end": 456.54,
+            "text": " My entire boilerplate code, HTML, VS code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 456.54,
+            "end": 458.3,
+            "text": " Automatically generated."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 458.38,
+            "end": 459.5,
+            "text": " And how did this generate?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 459.5,
+            "end": 461.82,
+            "text": " It was generated with the help of emits."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 461.82,
+            "end": 462.62,
+            "text": " What are emits?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 462.62,
+            "end": 464.46000000000004,
+            "text": " Emits are our short forms."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 464.46000000000004,
+            "end": 468.22,
+            "text": " If you are using a pre-installed VS code or some other code editor,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 468.22,
+            "end": 471.26,
+            "text": " Then there are pre-installed emits on many code editors."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 471.26,
+            "end": 473.98,
+            "text": " If the emits are not working on your VS code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 473.98,
+            "end": 476.14,
+            "text": " Or if you are using another code editor,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 476.14,
+            "end": 478.86,
+            "text": " Then there is no problem."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 478.86,
+            "end": 482.78000000000003,
+            "text": " You can type the entire code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 482.78000000000003,
+            "end": 485.42,
+            "text": " So, don't worry, if the emits are not working,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 485.42,
+            "end": 488.06,
+            "text": " Then you can run the HTML code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 488.06,
+            "end": 491.26,
+            "text": " Now, the emits automatically generated the entire code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 491.26,
+            "end": 492.7,
+            "text": " How did I write a short form?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 492.7,
+            "end": 495.1,
+            "text": " My whole code was generated with the exclamation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 495.1,
+            "end": 497.02,
+            "text": " So, the emits are very useful to us."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 497.02,
+            "end": 499.66,
+            "text": " And we will read more about the emits."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 499.66,
+            "end": 502.22,
+            "text": " Now, let's focus on our boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 502.22,
+            "end": 505.66,
+            "text": " First of all, the line tells me that I am using HTML5."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 505.66,
+            "end": 506.78,
+            "text": " In the second line,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 506.78,
+            "end": 509.34000000000003,
+            "text": " I can see something like this in the HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 509.34000000000003,
+            "end": 512.06,
+            "text": " Language lang is equal to en."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 512.06,
+            "end": 513.82,
+            "text": " The basic meaning of this line is,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 513.82,
+            "end": 516.22,
+            "text": " The extra line is in the HTML tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 516.3000000000001,
+            "end": 517.6600000000001,
+            "text": " The basic meaning of this line is,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 517.6600000000001,
+            "end": 520.0600000000001,
+            "text": " Which language do we want to show on our page,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 520.0600000000001,
+            "end": 522.38,
+            "text": " We want to use the English language."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 522.38,
+            "end": 523.58,
+            "text": " Now, there are multiple languages,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 523.58,
+            "end": 525.34,
+            "text": " Which you can use in the HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 525.34,
+            "end": 527.74,
+            "text": " You can use French or German."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 527.74,
+            "end": 530.0600000000001,
+            "text": " But primarily, we use English."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 530.0600000000001,
+            "end": 531.82,
+            "text": " After that, there is my head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 531.82,
+            "end": 535.34,
+            "text": " In it, you can see two or three extra tags."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 535.34,
+            "end": 537.74,
+            "text": " What they give me is meta information."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 537.74,
+            "end": 539.4200000000001,
+            "text": " Meta information, that is,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 539.4200000000001,
+            "end": 541.98,
+            "text": " The information about the data."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 541.98,
+            "end": 543.9,
+            "text": " The information that is not shown,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 543.9,
+            "end": 546.14,
+            "text": " But it is stored by the extra."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 546.22,
+            "end": 548.46,
+            "text": " So, here, there is some information of the same way."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 548.46,
+            "end": 549.42,
+            "text": " Here, I have been told,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 549.42,
+            "end": 551.26,
+            "text": " Which character set we are using."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 551.26,
+            "end": 552.14,
+            "text": " Character set, that is,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 552.14,
+            "end": 554.78,
+            "text": " The name of the character set of English."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 554.78,
+            "end": 556.78,
+            "text": " And there is more extra information like this."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 556.78,
+            "end": 558.46,
+            "text": " Screen sizes, which basically,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 558.46,
+            "end": 559.9,
+            "text": " My viewport is there."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 559.9,
+            "end": 560.86,
+            "text": " But there are extra things,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 560.86,
+            "end": 562.78,
+            "text": " There is no need to pay much attention to it."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 562.78,
+            "end": 564.22,
+            "text": " This is my title."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 564.22,
+            "end": 566.22,
+            "text": " After that, my head tag ends."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 566.22,
+            "end": 567.8199999999999,
+            "text": " Then, my body tag comes."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 567.8199999999999,
+            "end": 571.34,
+            "text": " So, in this way, we can do the layout of our HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 571.34,
+            "end": 572.54,
+            "text": " We can do that."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 572.54,
+            "end": 574.3,
+            "text": " And in that, in the body tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 574.3,
+            "end": 576.06,
+            "text": " We can write a paragraph tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 576.14,
+            "end": 578.3,
+            "text": " Let's call it, Hello World."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 578.3,
+            "end": 580.3,
+            "text": " Hello World, we have written in the paragraph tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 580.3,
+            "end": 582.3,
+            "text": " And we are going to write in the title."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 582.3,
+            "end": 586.06,
+            "text": " My boilerplate code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 586.06,
+            "end": 586.6999999999999,
+            "text": " Safe."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 586.6999999999999,
+            "end": 589.42,
+            "text": " Now, if we go to the browser and refresh it,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 589.42,
+            "end": 591.42,
+            "text": " Then some things will appear in this way."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 591.42,
+            "end": 593.9799999999999,
+            "text": " Means, the Hello World I had written in the paragraph tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 593.9799999999999,
+            "end": 595.02,
+            "text": " It will show me on my screen,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 595.02,
+            "end": 597.5,
+            "text": " Means, on the window, on the website."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 597.5,
+            "end": 599.02,
+            "text": " And my boilerplate code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 599.02,
+            "end": 601.42,
+            "text": " This is the line, which I had written in the title."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 601.42,
+            "end": 604.6199999999999,
+            "text": " It shows me on the browser, on the tab."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 604.7,
+            "end": 608.14,
+            "text": " So, this difference is in the title and the body tag content."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 608.14,
+            "end": 610.46,
+            "text": " Now, whenever we write our HTML code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 610.46,
+            "end": 613.58,
+            "text": " We can leave it in the similar layout."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 613.58,
+            "end": 615.9,
+            "text": " But there are some things that we can do,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 615.9,
+            "end": 618.22,
+            "text": " Which make our code more readable."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 618.22,
+            "end": 619.74,
+            "text": " For example, one thing that we can do,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 619.74,
+            "end": 622.7,
+            "text": " As soon as the HTML tag is entering the tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 622.7,
+            "end": 624.94,
+            "text": " Or entering any tag,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 624.94,
+            "end": 627.34,
+            "text": " Then we will give it a tab space."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 627.34,
+            "end": 629.82,
+            "text": " Means, I will go here and give it a little space."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 629.82,
+            "end": 632.14,
+            "text": " Means, I pressed the tab on my keyboard."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 632.3,
+            "end": 635.26,
+            "text": " And I will give a little space to these four."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 635.26,
+            "end": 636.9399999999999,
+            "text": " I will give it a little space of the tab."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 636.9399999999999,
+            "end": 639.9,
+            "text": " And in this way, my layout will look very beautiful."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 639.9,
+            "end": 641.5,
+            "text": " Let's save it."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 641.5,
+            "end": 643.8199999999999,
+            "text": " So, I am getting to know that if there is space here,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 643.8199999999999,
+            "end": 646.86,
+            "text": " Means, my HTML tag is entering the head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 646.86,
+            "end": 648.9399999999999,
+            "text": " There is space between the meta and the head,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 648.9399999999999,
+            "end": 652.06,
+            "text": " Means, my meta tag is entering the head tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 652.06,
+            "end": 654.6999999999999,
+            "text": " And in the same way, there is space in the paragraph and body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 654.6999999999999,
+            "end": 657.34,
+            "text": " So, paragraph tag is entering the body tag."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 657.34,
+            "end": 659.8199999999999,
+            "text": " So, the extra space we give in front of us,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 659.8199999999999,
+            "end": 661.5,
+            "text": " It is called indentation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 661.58,
+            "end": 662.94,
+            "text": " I will write it down and tell you."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 662.94,
+            "end": 664.54,
+            "text": " It is a very interesting word."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 665.34,
+            "end": 668.54,
+            "text": " It is called indentation."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 668.54,
+            "end": 671.66,
+            "text": " The basic meaning of indentation is proper spacing."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 671.66,
+            "end": 674.14,
+            "text": " And indentation is a good programmer."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 674.14,
+            "end": 676.86,
+            "text": " It is a professional programmer's sign"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 676.86,
+            "end": 679.82,
+            "text": " That they give good space in their code."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 679.82,
+            "end": 681.98,
+            "text": " And the code becomes very readable."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 681.98,
+            "end": 686.38,
+            "text": " So, as I have to follow the upcoming chapters of spacing,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 686.38,
+            "end": 689.34,
+            "text": " And in the same way, our good habit will continue to build."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 689.34,
+            "end": 691.74,
+            "text": " And in fact, not only in HTML code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 691.74,
+            "end": 695.1,
+            "text": " Whether it is in JavaScript, CSS, or any other language,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 695.1,
+            "end": 696.7,
+            "text": " It is important in everyone."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 696.7,
+            "end": 699.02,
+            "text": " Now, if you don't give indentation in HTML,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 699.02,
+            "end": 699.9,
+            "text": " Then what will happen to it?"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 699.9,
+            "end": 701.5,
+            "text": " It will not matter to HTML."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 701.5,
+            "end": 703.34,
+            "text": " The code will run as it is."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 703.34,
+            "end": 704.7800000000001,
+            "text": " But in Python-like language,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 704.7800000000001,
+            "end": 706.22,
+            "text": " Pythonic language,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 706.22,
+            "end": 708.7800000000001,
+            "text": " If you give indentation in it,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 708.7800000000001,
+            "end": 710.22,
+            "text": " Then your code will not work."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 710.22,
+            "end": 712.94,
+            "text": " So, indentation is very important there."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 712.94,
+            "end": 715.1,
+            "text": " In case of running the code,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 715.1,
+            "end": 716.3000000000001,
+            "text": " It is not important at all."
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 716.3,
+            "end": 719.66,
+            "text": " But yes, if an experienced or professional programmer has to sign,"
+        },
+        {
+            "number": "07",
+            "title": "Boilerplate Code",
+            "start": 719.66,
+            "end": 721.42,
+            "text": " Then we have to follow it."
+        }
+    ],
+    "text": " Next thing we are going to read in HTML is our HTML boilerplate code. HTML or any other programming language means boilerplate code. That code is going to be written from now on before we write HTML code. If we want to make any file in which we will write any HTML code, then this is the first part of HTML that we will have to write. Every language has its own boilerplate code. If you want to write Java, then Java has a boilerplate and C++ has a boilerplate. It is a basic template that we always have to write. We can call it the standard format or skeleton of writing HTML code. Our HTML code also has a basic structure that we have to prepare first. We have to write tags directly from the file. We don't have to start writing tags. For example, in the beginning we made a paragraph tag or another tag in the first line. We don't have to approach it in that way. We have to write all the things systematically in HTML. We write this line above the HTML file. In this line we write something like exclamation, doc type HTML. The basic meaning of this line is that we are using HTML5. That is, it tells the entire document which version is being used and which version is being used. For example, we have versions in games or we update apps like WhatsApp. By the way, HTML is also updated. And the updated version of HTML which we use is our version 5. We represent it through this line. After that, the tag we write is my HTML tag. The HTML tag writes the entire code inside. All the other things we are going to write will be written in the HTML tag. In a way, we can call the HTML tag as our root tag. Now, where does this root word come from? Root means root or any part of any code. Whenever we talk about the code of HTML, we write this tag above which we call the HTML tag. In the HTML tag, we write this tag which we call the head tag. In the HTML tag, there is a hierarchical structure. In the head tag, I have written this tag which we call the title tag. In this way, we can arrange our tags level wise. We call this arrangement a hierarchical arrangement. Like our grandfather comes under our grandfather's father's generation. Our generation comes under the father's generation. So, what form and hierarchy form is there in which you make a diagram, then there are levels. Similarly, the levels come in our HTML tags. We can see which tag comes up or comes out or comes down. In this hierarchical arrangement, the top level which is placed on, we call it root. Who will be the root here? Our HTML tag will be the root here. Because this is the first valid tag with which we start our HTML code. Whenever we write our HTML code, we will write the first doc type. Then we will write the HTML tag and then the code will be in our HTML tag. The first tag we write in the HTML tag is our head tag. We write this tag and in the head tag, all our information or extra information goes. Like if I want to link CSS with HTML, If I want to tell the styling of any website, then the styling will be told in the head tag. If I want to link JavaScript with HTML, then we will be linking it in the head tag. That is, the linking of the other files or any extra information which we have to display on the browser or on our web page. But we should have extra information. We write that information in our head tag. So, we can say this head tag in a way that we store our metadata in it. Metadata means data about data. That is, the HTML code which we want to store, Like where the styling comes from, where the functionality comes from. And in this head tag, there is one tag which we always define for our web pages. That is my title tag. The title means that this is the title of our web page. You can understand the title by searching for any website on Google. Let's say I searched for Amazon.com on Google. So, what will Google do? Google will search the search query on the basis of this title. That is why the title's name should be very relevant. That is, if you want to display the same name on your page, then you have to give your title. And this title's name never displays on the website. That is, if you write my first page, then this title will not display on your main web page. It displays on the top of the tab from the website. Let's take an example of this. Let's say we opened a website on Netflix.com. Now, on Netflix.com, when this type of website opens, It is written on the top that it is the icon of Netflix. Netflix India Watch TV Shows Online Watch Movies Online. So, the one which is displayed on the top, This is the title of my main web page of Netflix. So, the title shows us what is actually going to be on the web page. That is why the title's name should be very relevant for our projects or websites. Next thing we will talk about is my body tag. Now, if we want, we can divide HTML into two parts. One is our head tag and one is our body tag. In the head tag, all the things that are not displayed on the website are not displayed. And in these things, our metadata is stored. We will do metadata with this. And those things are shown on our body tag, Which actually display on our web page. For example, if I want to write a paragraph tag, Then it will come inside the body tag. If I want to write a heading tag, then it will also come inside the body tag. Or there is another tag, like if we want to learn how to make many tags, We will learn how to make lists, We will learn how to make forms, We will learn how to make tables, We will learn how to make buttons, images, many things. So, we are writing all those tags inside my body tag. So, like this paragraph tag, we have written it inside the body tag. So, there is a general layout, which we always follow, Whenever we want to write our HTML code. Now, what we do is, we are going to generate this HTML boilerplate code inside our VS code. So, we have made a very simple file, this is classroom.html. And on our VS code, there is a shortcut to generate this boilerplate code. That is, we can simply do this, We can simply press exclamation. On our keyboard, if you type this sign on the screen, Then you will see some options, we call them emits. Emits means that this is a short form. If you write an exclamation inside the HTML code, Then you are telling the VS code that you want to generate boilerplate code. And in fact, HTML will show you that, You are trying to generate this code. And what can you do now? Either you can click on the blue line highlight, Or you can enter or whatever is on our Mac, You can press anything from the enter or return, Otherwise, the easiest option is, Click on this option blue line. So, what happened by clicking? My entire boilerplate code, HTML, VS code, Automatically generated. And how did this generate? It was generated with the help of emits. What are emits? Emits are our short forms. If you are using a pre-installed VS code or some other code editor, Then there are pre-installed emits on many code editors. If the emits are not working on your VS code, Or if you are using another code editor, Then there is no problem. You can type the entire code. So, don't worry, if the emits are not working, Then you can run the HTML code. Now, the emits automatically generated the entire code. How did I write a short form? My whole code was generated with the exclamation. So, the emits are very useful to us. And we will read more about the emits. Now, let's focus on our boilerplate code. First of all, the line tells me that I am using HTML5. In the second line, I can see something like this in the HTML. Language lang is equal to en. The basic meaning of this line is, The extra line is in the HTML tag. The basic meaning of this line is, Which language do we want to show on our page, We want to use the English language. Now, there are multiple languages, Which you can use in the HTML. You can use French or German. But primarily, we use English. After that, there is my head tag. In it, you can see two or three extra tags. What they give me is meta information. Meta information, that is, The information about the data. The information that is not shown, But it is stored by the extra. So, here, there is some information of the same way. Here, I have been told, Which character set we are using. Character set, that is, The name of the character set of English. And there is more extra information like this. Screen sizes, which basically, My viewport is there. But there are extra things, There is no need to pay much attention to it. This is my title. After that, my head tag ends. Then, my body tag comes. So, in this way, we can do the layout of our HTML. We can do that. And in that, in the body tag, We can write a paragraph tag. Let's call it, Hello World. Hello World, we have written in the paragraph tag. And we are going to write in the title. My boilerplate code. Safe. Now, if we go to the browser and refresh it, Then some things will appear in this way. Means, the Hello World I had written in the paragraph tag, It will show me on my screen, Means, on the window, on the website. And my boilerplate code, This is the line, which I had written in the title. It shows me on the browser, on the tab. So, this difference is in the title and the body tag content. Now, whenever we write our HTML code, We can leave it in the similar layout. But there are some things that we can do, Which make our code more readable. For example, one thing that we can do, As soon as the HTML tag is entering the tag, Or entering any tag, Then we will give it a tab space. Means, I will go here and give it a little space. Means, I pressed the tab on my keyboard. And I will give a little space to these four. I will give it a little space of the tab. And in this way, my layout will look very beautiful. Let's save it. So, I am getting to know that if there is space here, Means, my HTML tag is entering the head tag. There is space between the meta and the head, Means, my meta tag is entering the head tag. And in the same way, there is space in the paragraph and body tag. So, paragraph tag is entering the body tag. So, the extra space we give in front of us, It is called indentation. I will write it down and tell you. It is a very interesting word. It is called indentation. The basic meaning of indentation is proper spacing. And indentation is a good programmer. It is a professional programmer's sign That they give good space in their code. And the code becomes very readable. So, as I have to follow the upcoming chapters of spacing, And in the same way, our good habit will continue to build. And in fact, not only in HTML code, Whether it is in JavaScript, CSS, or any other language, It is important in everyone. Now, if you don't give indentation in HTML, Then what will happen to it? It will not matter to HTML. The code will run as it is. But in Python-like language, Pythonic language, If you give indentation in it, Then your code will not work. So, indentation is very important there. In case of running the code, It is not important at all. But yes, if an experienced or professional programmer has to sign, Then we have to follow it."
+}

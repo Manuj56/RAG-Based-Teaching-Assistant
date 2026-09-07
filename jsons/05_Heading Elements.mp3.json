@@ -1,0 +1,488 @@
+{
+    "chunks": [
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 0.0,
+            "end": 4.16,
+            "text": " Next element which we are going to learn in HTML is our heading elements."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 4.16,
+            "end": 10.68,
+            "text": " If I have to create different headings on my page, then we already have tags for that."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 10.68,
+            "end": 14.36,
+            "text": " We have six different heading tags in HTML."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 14.36,
+            "end": 17.76,
+            "text": " We take them from h1 to h6."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 17.76,
+            "end": 21.92,
+            "text": " One tag is my h1 which displays the biggest heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 21.92,
+            "end": 27.96,
+            "text": " Whatever you write in it, if I write it in AVCD, then it will display in the largest size in the heading terms."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 27.96,
+            "end": 36.64,
+            "text": " The second tag is my h2, the third tag is h3, the fourth tag is my h4, the fifth is my h5, and the sixth tag is my h6."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 36.64,
+            "end": 39.8,
+            "text": " And these are the size which goes down."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 39.8,
+            "end": 45.44,
+            "text": " If you want to give the smallest heading, then it will come in h6 and the biggest heading will come in h1."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 45.44,
+            "end": 49.36,
+            "text": " So these six different levels represent section headings."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 49.36,
+            "end": 53.36,
+            "text": " How can we see the example of how the heading represents?"
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 53.36,
+            "end": 58.88,
+            "text": " If I go to my browser and accept that I have opened a page called Avengers Wikipedia."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 58.88,
+            "end": 60.08,
+            "text": " I have opened this page."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 60.08,
+            "end": 64.6,
+            "text": " Now in this page, the title of the title is my biggest heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 64.6,
+            "end": 66.36,
+            "text": " Now what will be the smallest heading?"
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 66.36,
+            "end": 68.2,
+            "text": " This is my biggest heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 68.2,
+            "end": 70.96000000000001,
+            "text": " My one level small heading will be the plot."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 70.96000000000001,
+            "end": 73.6,
+            "text": " This will be the cast on the same level."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 73.6,
+            "end": 77.8,
+            "text": " So if I have to write in h1 heading, then I will write my main title."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 77.8,
+            "end": 83.52,
+            "text": " After that, the biggest heading, the plot or the cast, I will write it in h2."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 83.52,
+            "end": 87.92,
+            "text": " Now if I have to give another subheading in h2, then I will write it in h3."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 87.92,
+            "end": 91.44,
+            "text": " And in this way, we create different levels of heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 91.44,
+            "end": 95.2,
+            "text": " For example, if I talk about my HTML file, then I can write h1 here."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 95.2,
+            "end": 98.03999999999999,
+            "text": " This is my opening tag, this is my closing tag."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 98.03999999999999,
+            "end": 101.4,
+            "text": " Now in this, I can write my main heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 101.4,
+            "end": 102.4,
+            "text": " This is my main heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 102.4,
+            "end": 104.96,
+            "text": " Let's assume that my main heading is Avengers."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 104.96,
+            "end": 107.75999999999999,
+            "text": " So in this way, I have displayed my main heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 107.76,
+            "end": 115.0,
+            "text": " Now if I have to display their small subheadings, then I will display all the subheadings in h2."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 115.0,
+            "end": 118.96000000000001,
+            "text": " For example, I can write my Avengers name here, I can write the name of Iron Man."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 118.96000000000001,
+            "end": 122.80000000000001,
+            "text": " If you don't know about Avengers, then this is a random name that I am writing."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 122.80000000000001,
+            "end": 124.60000000000001,
+            "text": " Here I can write Thor."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 124.60000000000001,
+            "end": 128.04000000000002,
+            "text": " In the next line, I can write Hulk."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 128.04000000000002,
+            "end": 135.12,
+            "text": " So in this way, if I talk about my web browser, then the main heading on my page is a big display."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 135.12,
+            "end": 136.76,
+            "text": " Because I wrote it in h1."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 136.76,
+            "end": 141.2,
+            "text": " And the headings that are written in h2 are smaller than the headings in h1."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 141.2,
+            "end": 144.76,
+            "text": " So in h1, we will write our main heading and smaller than that in h2."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 144.76,
+            "end": 151.64,
+            "text": " In the same way, if I want to write in h3, then if I display anything here, then it will be displayed in a smaller font."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 151.64,
+            "end": 153.76,
+            "text": " So this is my smaller heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 153.76,
+            "end": 159.23999999999998,
+            "text": " Now h1, h2, h3, all these headings are their default size."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 159.23999999999998,
+            "end": 162.64,
+            "text": " The headings of h1 will always be printed in the same default size."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 162.64,
+            "end": 166.44,
+            "text": " The headings of h2 will always be shown on the page in the same default size."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 166.52,
+            "end": 169.92,
+            "text": " The headings of h3 will also be shown on the same default size on the page."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 169.92,
+            "end": 173.96,
+            "text": " Similarly, for 6 headings, 6 default sizes are already defined."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 173.96,
+            "end": 178.48,
+            "text": " And usually when we are writing CSS, i.e. when we are defining the style of our web page,"
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 178.48,
+            "end": 181.64,
+            "text": " then we can change the font for the rest of the text."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 181.64,
+            "end": 188.64,
+            "text": " But usually, the headings of h1, h2, h3, we don't change their font size for headings."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 188.64,
+            "end": 195.72,
+            "text": " Because when the font size is already defined by default, then we don't play with the html by default rules that much."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 195.8,
+            "end": 200.2,
+            "text": " So in maximum cases, we are not changing the default size of the headings, which is their default size."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 200.2,
+            "end": 201.52,
+            "text": " We keep it the same."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 201.52,
+            "end": 208.0,
+            "text": " And if we want to write our html program well, then in the html code, in the file, usually we have only one h1 tag."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 208.0,
+            "end": 211.07999999999998,
+            "text": " It is not like we will display multiple h1 tags."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 211.07999999999998,
+            "end": 217.72,
+            "text": " So h1 tag is only one, we can keep our h2 tags multiple depending upon what level we are talking about on our page."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 217.72,
+            "end": 223.16,
+            "text": " Now if I want, then here, I have written heading tags, I can mix my paragraph tag with them."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 223.24,
+            "end": 225.16,
+            "text": " This is a paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 225.16,
+            "end": 229.48,
+            "text": " In this way, I can write a paragraph tag after each heading."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 229.48,
+            "end": 232.28,
+            "text": " Let's do this save and refresh it."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 232.28,
+            "end": 234.0,
+            "text": " So here, my main heading is here."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 234.0,
+            "end": 236.28,
+            "text": " This is the help of h1."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 236.28,
+            "end": 239.96,
+            "text": " After that, this line should be displayed with the help of my h2."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 239.96,
+            "end": 242.48,
+            "text": " So this is displayed with the help of h2, then a paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 242.48,
+            "end": 244.68,
+            "text": " Then a heading to, then a paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 244.68,
+            "end": 246.84,
+            "text": " Then a heading to, then a paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 246.84,
+            "end": 251.24,
+            "text": " So I can see that the text size of the paragraph is small and headings are usually the text size of the paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 251.32000000000002,
+            "end": 254.60000000000002,
+            "text": " Headings are usually bigger than the text size of the paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 254.60000000000002,
+            "end": 261.16,
+            "text": " If I write h2 instead of h6, which is my smallest heading, then save and run."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 261.16,
+            "end": 268.44,
+            "text": " All the headings are not bigger than the paragraph size, but mostly the headings we are using in practical life are bigger than our paragraph."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 268.44,
+            "end": 273.64,
+            "text": " Because the paragraph is usually used to display its related content and normal text."
+        },
+        {
+            "number": "05",
+            "title": "Heading Elements",
+            "start": 273.64,
+            "end": 278.76,
+            "text": " Whereas the main title of the headings is used to display the main things."
+        }
+    ],
+    "text": " Next element which we are going to learn in HTML is our heading elements. If I have to create different headings on my page, then we already have tags for that. We have six different heading tags in HTML. We take them from h1 to h6. One tag is my h1 which displays the biggest heading. Whatever you write in it, if I write it in AVCD, then it will display in the largest size in the heading terms. The second tag is my h2, the third tag is h3, the fourth tag is my h4, the fifth is my h5, and the sixth tag is my h6. And these are the size which goes down. If you want to give the smallest heading, then it will come in h6 and the biggest heading will come in h1. So these six different levels represent section headings. How can we see the example of how the heading represents? If I go to my browser and accept that I have opened a page called Avengers Wikipedia. I have opened this page. Now in this page, the title of the title is my biggest heading. Now what will be the smallest heading? This is my biggest heading. My one level small heading will be the plot. This will be the cast on the same level. So if I have to write in h1 heading, then I will write my main title. After that, the biggest heading, the plot or the cast, I will write it in h2. Now if I have to give another subheading in h2, then I will write it in h3. And in this way, we create different levels of heading. For example, if I talk about my HTML file, then I can write h1 here. This is my opening tag, this is my closing tag. Now in this, I can write my main heading. This is my main heading. Let's assume that my main heading is Avengers. So in this way, I have displayed my main heading. Now if I have to display their small subheadings, then I will display all the subheadings in h2. For example, I can write my Avengers name here, I can write the name of Iron Man. If you don't know about Avengers, then this is a random name that I am writing. Here I can write Thor. In the next line, I can write Hulk. So in this way, if I talk about my web browser, then the main heading on my page is a big display. Because I wrote it in h1. And the headings that are written in h2 are smaller than the headings in h1. So in h1, we will write our main heading and smaller than that in h2. In the same way, if I want to write in h3, then if I display anything here, then it will be displayed in a smaller font. So this is my smaller heading. Now h1, h2, h3, all these headings are their default size. The headings of h1 will always be printed in the same default size. The headings of h2 will always be shown on the page in the same default size. The headings of h3 will also be shown on the same default size on the page. Similarly, for 6 headings, 6 default sizes are already defined. And usually when we are writing CSS, i.e. when we are defining the style of our web page, then we can change the font for the rest of the text. But usually, the headings of h1, h2, h3, we don't change their font size for headings. Because when the font size is already defined by default, then we don't play with the html by default rules that much. So in maximum cases, we are not changing the default size of the headings, which is their default size. We keep it the same. And if we want to write our html program well, then in the html code, in the file, usually we have only one h1 tag. It is not like we will display multiple h1 tags. So h1 tag is only one, we can keep our h2 tags multiple depending upon what level we are talking about on our page. Now if I want, then here, I have written heading tags, I can mix my paragraph tag with them. This is a paragraph. In this way, I can write a paragraph tag after each heading. Let's do this save and refresh it. So here, my main heading is here. This is the help of h1. After that, this line should be displayed with the help of my h2. So this is displayed with the help of h2, then a paragraph. Then a heading to, then a paragraph. Then a heading to, then a paragraph. So I can see that the text size of the paragraph is small and headings are usually the text size of the paragraph. Headings are usually bigger than the text size of the paragraph. If I write h2 instead of h6, which is my smallest heading, then save and run. All the headings are not bigger than the paragraph size, but mostly the headings we are using in practical life are bigger than our paragraph. Because the paragraph is usually used to display its related content and normal text. Whereas the main title of the headings is used to display the main things."
+}

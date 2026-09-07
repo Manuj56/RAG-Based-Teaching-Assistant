@@ -1,0 +1,978 @@
+{
+    "chunks": [
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 0.0,
+            "end": 3.2,
+            "text": " Now, let's solve our practice question one."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 3.2,
+            "end": 10.200000000000001,
+            "text": " We are asking to recreate the image we have given here using our HTML tags."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 10.200000000000001,
+            "end": 15.6,
+            "text": " If you look at this image carefully, you can find out what is going on here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 15.6,
+            "end": 22.8,
+            "text": " If I talk about the top, that is, the Avengers, then I feel it's going to be my heading."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 22.8,
+            "end": 25.2,
+            "text": " Obviously, we have seen three tags so far."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 25.2,
+            "end": 29.400000000000002,
+            "text": " We have seen a heading tag, a paragraph tag, and a bold tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 29.4,
+            "end": 33.8,
+            "text": " So, we are going to solve our question with these three tags."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 33.8,
+            "end": 37.199999999999996,
+            "text": " So, my top level heading is my H1."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 37.199999999999996,
+            "end": 41.0,
+            "text": " The headings of the lower level usually are H1 and H2."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 41.0,
+            "end": 42.6,
+            "text": " So, we will be keeping this as H2."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 42.6,
+            "end": 47.2,
+            "text": " We will be keeping this as H2 and we will be keeping this as H2."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 47.2,
+            "end": 52.0,
+            "text": " And in this, we will keep this text as my paragraph."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 52.0,
+            "end": 53.599999999999994,
+            "text": " So, this is my paragraph text."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 53.599999999999994,
+            "end": 57.4,
+            "text": " In which, if Tony Stark is showing this word in bold,"
+        },
+        {
+            "number": "06",
+             "title": "Practice Qs (Level1A)",
+            "start": 57.4,
+            "end": 62.0,
+            "text": " then we will use bold text in the paragraph to show bold things."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 62.0,
+            "end": 66.0,
+            "text": " Same thing here, this line is a normal paragraph in which,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 66.0,
+            "end": 68.8,
+            "text": " if there are two words bold, then we will use bold tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 68.8,
+            "end": 70.0,
+            "text": " So, what is being used here?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 70.0,
+            "end": 73.8,
+            "text": " Here, we will be using our nested tags."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 73.8,
+            "end": 76.0,
+            "text": " Here, we will also call our nested tags."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 76.0,
+            "end": 80.0,
+            "text": " That is, when a second tag comes in the tag, we will call it nesting."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 80.0,
+            "end": 83.2,
+            "text": " This is also the combination of my paragraph and bold tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 83.2,
+            "end": 88.8,
+            "text": " So, in this way, I have recognized that which information I have to display with the help of which tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 88.8,
+            "end": 93.4,
+            "text": " If I don't write in HTML normally, I want to write with pen and pencil here, then what can I write?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 93.4,
+            "end": 94.0,
+            "text": " I can write."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 94.0,
+            "end": 95.4,
+            "text": " My code is going to be something like this."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 95.4,
+            "end": 97.0,
+            "text": " First, I will write H1 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 97.0,
+            "end": 99.0,
+            "text": " After that, I will write my Avengers."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 99.0,
+            "end": 101.60000000000001,
+            "text": " Here, my H1 tag will be closed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 101.60000000000001,
+            "end": 104.2,
+            "text": " After that, I will write my H2 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 104.2,
+            "end": 106.80000000000001,
+            "text": " In H2 tag, I am going to write Iron Man."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 106.80000000000001,
+            "end": 110.60000000000001,
+            "text": " Here, my H2 tag will be closed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 110.8,
+            "end": 112.8,
+            "text": " Third, I am going to write a paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 112.8,
+            "end": 119.8,
+            "text": " I will write in paragraph tag also goes by the name."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 119.8,
+            "end": 122.6,
+            "text": " All this information also goes by the name."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 122.6,
+            "end": 125.39999999999999,
+            "text": " I have not written all this here in my paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 125.39999999999999,
+            "end": 127.0,
+            "text": " And this is Tony Stark because it is in bold."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 127.0,
+            "end": 128.79999999999998,
+            "text": " So, I will write another tag for this."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 128.79999999999998,
+            "end": 131.0,
+            "text": " I will highlight it with yellow."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 131.0,
+            "end": 135.0,
+            "text": " Here, I will write B and here I am going to write Tony Stark."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 135.0,
+            "end": 140.4,
+            "text": " And this will be my close bold tag and here, I will have my paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 140.4,
+            "end": 144.6,
+            "text": " So, to display these three lines in this way, I can write these three lines."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 144.6,
+            "end": 150.8,
+            "text": " Similarly, to display these two lines, I will use H2 tag and paragraph tag again."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 150.8,
+            "end": 153.20000000000002,
+            "text": " In which, I will write bold tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 153.20000000000002,
+            "end": 156.20000000000002,
+            "text": " So, in this way, I can display all my information."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 156.20000000000002,
+            "end": 158.8,
+            "text": " Now, we are going to write this in our HTML file."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 158.8,
+            "end": 161.8,
+            "text": " First, I am going to write my H1 tag, heading 1."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 161.8,
+            "end": 164.20000000000002,
+            "text": " In which, I will write Avengers."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 164.20000000000002,
+            "end": 167.20000000000002,
+            "text": " After that, in the next line, I will write my heading 2 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 167.2,
+            "end": 170.79999999999998,
+            "text": " In which, I have written Iron Man with Space."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 170.79999999999998,
+            "end": 173.2,
+            "text": " In the next line, I will write my paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 173.2,
+            "end": 176.39999999999998,
+            "text": " Here, I am going to write also goes by the name."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 176.39999999999998,
+            "end": 180.39999999999998,
+            "text": " Here, I will write my bold tag, which I will write Tony Stark."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 180.39999999999998,
+            "end": 183.39999999999998,
+            "text": " After this, on the next line, H2 tag will come."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 183.39999999999998,
+            "end": 186.39999999999998,
+            "text": " In which, it will be written Captain America."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 186.39999999999998,
+            "end": 189.2,
+            "text": " And on the next line, paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 189.2,
+            "end": 192.79999999999998,
+            "text": " In paragraph tag, it also goes by the name."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 192.79999999999998,
+            "end": 194.79999999999998,
+            "text": " Again, my bold tag will come."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 194.79999999999998,
+            "end": 196.6,
+            "text": " Steve Rogers."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 196.6,
+            "end": 199.6,
+            "text": " In the next line, H2 tag, H2 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 199.6,
+            "end": 201.2,
+            "text": " I am going to write Hulk."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 201.2,
+            "end": 203.2,
+            "text": " In the next line, paragraph tag will come."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 203.2,
+            "end": 207.2,
+            "text": " Also, goes by the name."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 207.2,
+            "end": 211.2,
+            "text": " Here, my bold tag, in bold tag, Bruce Banner."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 211.2,
+            "end": 213.2,
+            "text": " So, I will save this."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 213.2,
+            "end": 215.2,
+            "text": " I have done the whole code."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 215.2,
+            "end": 217.2,
+            "text": " And now, I will refresh it."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 217.2,
+            "end": 220.2,
+            "text": " As soon as I refresh, the same Hello World HTML file"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 220.2,
+            "end": 223.2,
+            "text": " created this web page, which we had given an image."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 223.2,
+            "end": 227.2,
+            "text": " All the things of the story are displayed in the same way."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 227.2,
+            "end": 230.2,
+            "text": " Now, if I want, I can inspect this page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 230.2,
+            "end": 231.2,
+            "text": " What will be after inspecting?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 231.2,
+            "end": 234.2,
+            "text": " The whole code I have written in this code,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 234.2,
+            "end": 236.2,
+            "text": " it is also visible in my browser."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 236.2,
+            "end": 239.2,
+            "text": " I had written something like this in paragraph tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 239.2,
+            "end": 241.2,
+            "text": " Then, in bold tag, Tony Stark."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 241.2,
+            "end": 243.2,
+            "text": " Then, next heading, H2 was written."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 243.2,
+            "end": 247.2,
+            "text": " Then, in paragraph tag, again, this type of information was written."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 247.2,
+            "end": 249.2,
+            "text": " Then, I had written Steve Rogers in bold tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 249.2,
+            "end": 253.2,
+            "text": " All these things are visible in my elements after inspecting."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 253.2,
+            "end": 256.2,
+            "text": " Now, another special thing is in my inspect feature."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 256.2,
+            "end": 260.2,
+            "text": " If I want, I can change the title of Avengers."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 260.2,
+            "end": 262.2,
+            "text": " If I write Shaktimaan here,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 262.2,
+            "end": 265.2,
+            "text": " then, as soon as I enter this, what will happen?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 265.2,
+            "end": 267.2,
+            "text": " Changes will come in my H1 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 267.2,
+            "end": 270.2,
+            "text": " These changes will not come in my VS code."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 270.2,
+            "end": 272.2,
+            "text": " In the VS code, whatever I have written in the HTML file,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 272.2,
+            "end": 274.2,
+            "text": " it will be written in the same way."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 274.2,
+            "end": 275.2,
+            "text": " But, where did the change come?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 275.2,
+            "end": 277.2,
+            "text": " The change came in the browser only."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 277.2,
+            "end": 279.2,
+            "text": " The changes I have made here,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 279.2,
+            "end": 282.2,
+            "text": " it changes in the web page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 282.2,
+            "end": 284.2,
+            "text": " But, these changes are not permanent."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 284.2,
+            "end": 286.2,
+            "text": " These changes are temporary,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 286.2,
+            "end": 288.2,
+            "text": " which only shows you changes in your computer."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 288.2,
+            "end": 291.2,
+            "text": " For example, here, my Avengers Wikipedia page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 291.2,
+            "end": 294.2,
+            "text": " I can inspect the Wikipedia page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 294.2,
+            "end": 299.2,
+            "text": " As I have inspected, I can find where the Avengers heading is written."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 299.2,
+            "end": 301.2,
+            "text": " This is the Avengers heading written here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 301.2,
+            "end": 304.2,
+            "text": " Here, I can see that this is also my H1 tag."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 304.2,
+            "end": 306.2,
+            "text": " There is a lot of information in it."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 306.2,
+            "end": 308.2,
+            "text": " But, here, the Avengers is written."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 308.2,
+            "end": 310.2,
+            "text": " Now, I can change the name of the Avengers."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 310.2,
+            "end": 312.2,
+            "text": " I have written my name here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 312.2,
+            "end": 314.2,
+            "text": " I am eating the honey."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 314.2,
+            "end": 316.2,
+            "text": " As soon as I entered this, what happened?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 316.2,
+            "end": 318.2,
+            "text": " Now, the name of the Wikipedia page has changed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 318.2,
+            "end": 320.2,
+            "text": " Now, my name has changed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 320.2,
+            "end": 322.2,
+            "text": " If I wanted to, I could have changed it."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 322.2,
+            "end": 324.2,
+            "text": " My college has changed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 324.2,
+            "end": 326.2,
+            "text": " By changing this page,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 326.2,
+            "end": 328.2,
+            "text": " I could have written Shaktimaan here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 328.2,
+            "end": 332.2,
+            "text": " The information of the entire Wikipedia page has changed."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 332.2,
+            "end": 336.2,
+            "text": " So, sometimes, people post videos like this on social media."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 336.2,
+            "end": 338.2,
+            "text": " They have changed the entire web page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 338.2,
+            "end": 340.2,
+            "text": " There is some information displayed on Wikipedia."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 340.2,
+            "end": 342.2,
+            "text": " So, you don't have to go above these things."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 342.2,
+            "end": 346.2,
+            "text": " It is not necessary that the information that you are seeing"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 346.2,
+            "end": 350.2,
+            "text": " on any video on a website is posted on the actual internet."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 350.2,
+            "end": 356.2,
+            "text": " Because, if you open this link of the Avengers from Wikipedia,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 356.2,
+            "end": 358.2,
+            "text": " then you will see the Avengers itself."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 358.2,
+            "end": 361.2,
+            "text": " This small change is only in my browser."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 361.2,
+            "end": 363.2,
+            "text": " It has only changed in my system."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 363.2,
+            "end": 365.2,
+            "text": " This is a temporary change."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 365.2,
+            "end": 367.2,
+            "text": " If I refresh the page,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 367.2,
+            "end": 371.2,
+            "text": " then the original information that is posted on the internet will be seen again."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 371.2,
+            "end": 373.2,
+            "text": " With the help of the Inspect feature,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 373.2,
+            "end": 375.2,
+            "text": " we have created a normal web page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 375.2,
+            "end": 379.2,
+            "text": " We have to change some changes in it."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 379.2,
+            "end": 381.2,
+            "text": " If I want to change it,"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 381.2,
+            "end": 383.2,
+            "text": " instead of Tony Stark, I would have written Iron Man here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 383.2,
+            "end": 385.2,
+            "text": " So, how would my page look like?"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 385.2,
+            "end": 387.2,
+            "text": " I can check the changes in the browser."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 387.2,
+            "end": 389.2,
+            "text": " Instead of that, I can change it in the VS Code file."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 389.2,
+            "end": 391.2,
+            "text": " Then I can refresh it here."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 391.2,
+            "end": 393.2,
+            "text": " So, this feature of Inspect"
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 393.2,
+            "end": 396.2,
+            "text": " will be very useful when we are reading CSS."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 396.2,
+            "end": 399.2,
+            "text": " Or when we are adding more complex features to our web page."
+        },
+        {
+            "number": "06",
+            "title": "Practice Qs (Level1A)",
+            "start": 399.2,
+            "end": 403.2,
+            "text": " Because, we can see all our changes on the web page only then."
+        }
+    ],
+    "text": " Now, let's solve our practice question one. We are asking to recreate the image we have given here using our HTML tags. If you look at this image carefully, you can find out what is going on here. If I talk about the top, that is, the Avengers, then I feel it's going to be my heading. Obviously, we have seen three tags so far. We have seen a heading tag, a paragraph tag, and a bold tag. So, we are going to solve our question with these three tags. So, my top level heading is my H1. The headings of the lower level usually are H1 and H2. So, we will be keeping this as H2. We will be keeping this as H2 and we will be keeping this as H2. And in this, we will keep this text as my paragraph. So, this is my paragraph text. In which, if Tony Stark is showing this word in bold, then we will use bold text in the paragraph to show bold things. Same thing here, this line is a normal paragraph in which, if there are two words bold, then we will use bold tag. So, what is being used here? Here, we will be using our nested tags. Here, we will also call our nested tags. That is, when a second tag comes in the tag, we will call it nesting. This is also the combination of my paragraph and bold tag. So, in this way, I have recognized that which information I have to display with the help of which tag. If I don't write in HTML normally, I want to write with pen and pencil here, then what can I write? I can write. My code is going to be something like this. First, I will write H1 tag. After that, I will write my Avengers. Here, my H1 tag will be closed. After that, I will write my H2 tag. In H2 tag, I am going to write Iron Man. Here, my H2 tag will be closed. Third, I am going to write a paragraph tag. I will write in paragraph tag also goes by the name. All this information also goes by the name. I have not written all this here in my paragraph tag. And this is Tony Stark because it is in bold. So, I will write another tag for this. I will highlight it with yellow. Here, I will write B and here I am going to write Tony Stark. And this will be my close bold tag and here, I will have my paragraph tag. So, to display these three lines in this way, I can write these three lines. Similarly, to display these two lines, I will use H2 tag and paragraph tag again. In which, I will write bold tag. So, in this way, I can display all my information. Now, we are going to write this in our HTML file. First, I am going to write my H1 tag, heading 1. In which, I will write Avengers. After that, in the next line, I will write my heading 2 tag. In which, I have written Iron Man with Space. In the next line, I will write my paragraph tag. Here, I am going to write also goes by the name. Here, I will write my bold tag, which I will write Tony Stark. After this, on the next line, H2 tag will come. In which, it will be written Captain America. And on the next line, paragraph tag. In paragraph tag, it also goes by the name. Again, my bold tag will come. Steve Rogers. In the next line, H2 tag, H2 tag. I am going to write Hulk. In the next line, paragraph tag will come. Also, goes by the name. Here, my bold tag, in bold tag, Bruce Banner. So, I will save this. I have done the whole code. And now, I will refresh it. As soon as I refresh, the same Hello World HTML file created this web page, which we had given an image. All the things of the story are displayed in the same way. Now, if I want, I can inspect this page. What will be after inspecting? The whole code I have written in this code, it is also visible in my browser. I had written something like this in paragraph tag. Then, in bold tag, Tony Stark. Then, next heading, H2 was written. Then, in paragraph tag, again, this type of information was written. Then, I had written Steve Rogers in bold tag. All these things are visible in my elements after inspecting. Now, another special thing is in my inspect feature. If I want, I can change the title of Avengers. If I write Shaktimaan here, then, as soon as I enter this, what will happen? Changes will come in my H1 tag. These changes will not come in my VS code. In the VS code, whatever I have written in the HTML file, it will be written in the same way. But, where did the change come? The change came in the browser only. The changes I have made here, it changes in the web page. But, these changes are not permanent. These changes are temporary, which only shows you changes in your computer. For example, here, my Avengers Wikipedia page. I can inspect the Wikipedia page. As I have inspected, I can find where the Avengers heading is written. This is the Avengers heading written here. Here, I can see that this is also my H1 tag. There is a lot of information in it. But, here, the Avengers is written. Now, I can change the name of the Avengers. I have written my name here. I am eating the honey. As soon as I entered this, what happened? Now, the name of the Wikipedia page has changed. Now, my name has changed. If I wanted to, I could have changed it. My college has changed. By changing this page, I could have written Shaktimaan here. The information of the entire Wikipedia page has changed. So, sometimes, people post videos like this on social media. They have changed the entire web page. There is some information displayed on Wikipedia. So, you don't have to go above these things. It is not necessary that the information that you are seeing on any video on a website is posted on the actual internet. Because, if you open this link of the Avengers from Wikipedia, then you will see the Avengers itself. This small change is only in my browser. It has only changed in my system. This is a temporary change. If I refresh the page, then the original information that is posted on the internet will be seen again. With the help of the Inspect feature, we have created a normal web page. We have to change some changes in it. If I want to change it, instead of Tony Stark, I would have written Iron Man here. So, how would my page look like? I can check the changes in the browser. Instead of that, I can change it in the VS Code file. Then I can refresh it here. So, this feature of Inspect will be very useful when we are reading CSS. Or when we are adding more complex features to our web page. Because, we can see all our changes on the web page only then."
+}

@@ -1,0 +1,397 @@
+{
+    "chunks": [
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 0.0,
+            "end": 5.2,
+            "text": " Now let's talk about any website, if I want to display some information, how do we display it?"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 5.2,
+            "end": 13.620000000000001,
+            "text": " There are elements in HTML, that is, if I want to show that there will be a paragraph or image on my website,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 13.620000000000001,
+            "end": 18.240000000000002,
+            "text": " or if I want to get some heading, then we create HTML elements for that."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 18.240000000000002,
+            "end": 22.56,
+            "text": " HTML elements are standard elements that are recognized by our browser."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 22.56,
+            "end": 28.279999999999998,
+            "text": " My browser knows what is going to be the paragraph in HTML, what is going to be the heading,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 28.279999999999998,
+            "end": 32.6,
+            "text": " or if I am trying to create an image, what is going to be that in HTML?"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 32.6,
+            "end": 36.58,
+            "text": " So usually to show these elements, we use the HTML tags."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 36.58,
+            "end": 43.06,
+            "text": " For example, if I talk about the paragraph, to write the paragraph in HTML, I write P in this way,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 43.06,
+            "end": 47.599999999999994,
+            "text": " and in the ending, I write P with slash in this way."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 47.6,
+            "end": 53.72,
+            "text": " And this is what comes in the Angular brackets, means less than and greater than the signers call it Angular brackets,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 53.72,
+            "end": 60.72,
+            "text": " if I write P in it, and here it will start, it will end, now in the tags, whatever I write,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 60.72,
+            "end": 66.12,
+            "text": " let's assume that I wrote ABCD, this ABCD is going to be displayed on my website like a paragraph."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 66.12,
+            "end": 72.4,
+            "text": " Similarly, if I want to show heading on my website, then I can write tag for it, let's assume that I want to show the heading of H1 level,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 72.4,
+            "end": 74.96000000000001,
+            "text": " there are levels in the heading, 6 different levels."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 74.96,
+            "end": 79.36,
+            "text": " If I want to show the heading of H1 level, then I will write H1 in this way,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 79.36,
+            "end": 85.55999999999999,
+            "text": " and whatever I am going to write in it, it will start showing on my website like a big heading."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 85.55999999999999,
+            "end": 92.39999999999999,
+            "text": " So in this way, if I want to create different elements, then for them, I have to use different different HTML tags,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 92.39999999999999,
+            "end": 95.83999999999999,
+            "text": " and the task of these tags is to design the structure of my website."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 95.83999999999999,
+            "end": 102.08,
+            "text": " So from here, we have to remember the basic thing, that if I want to display something on my website,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 102.2,
+            "end": 109.2,
+            "text": " then for that we need elements, and to create different elements in HTML, we use our HTML tags."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 109.2,
+            "end": 112.6,
+            "text": " So let's talk in detail about HTML tags, what are the HTML tags?"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 112.6,
+            "end": 120.88,
+            "text": " We can consider an HTML tag as a container, meaning any content, any text, if I want to display something on a website,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 120.88,
+            "end": 126.88,
+            "text": " then to contain it, I should have a container, and we call this container as tag."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 126.88,
+            "end": 132.48,
+            "text": " For example, if I take a simple paragraph tag, we write paragraph tag in this way,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 132.48,
+            "end": 140.68,
+            "text": " in which the beginning is called opening tag, and in the last one, we call it closing tag."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 140.68,
+            "end": 145.88,
+            "text": " So here if P is written in the angular brackets, P means paragraph in HTML,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 145.88,
+            "end": 149.88,
+            "text": " and again in closing tag, there are angular brackets, but here there is a slash,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 149.88,
+            "end": 152.48,
+            "text": " which shows that this tag is ending here."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 152.48,
+            "end": 157.67999999999998,
+            "text": " And in between these tags, we call whatever comes, our content."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 157.67999999999998,
+            "end": 162.67999999999998,
+            "text": " Meaning the content of the entire material, the content of the entire paragraph,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 162.67999999999998,
+            "end": 168.67999999999998,
+            "text": " will now be displayed on my website, and this opening tag, content, and closing tag combination,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 168.67999999999998,
+            "end": 170.67999999999998,
+            "text": " we call it an HTML element."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 170.67999999999998,
+            "end": 176.67999999999998,
+            "text": " So it is a very simple hierarchy, that HTML tags are one my opening tag, one my closing tag,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 176.88,
+            "end": 181.88,
+            "text": " and in between, our content of HTML comes, and when we mix tags and content,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 181.88,
+            "end": 183.88,
+            "text": " we call it an HTML element."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 183.88,
+            "end": 189.88,
+            "text": " Now as soon as I write this thing on my web browser, in my HTML document,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 189.88,
+            "end": 195.88,
+            "text": " as soon as I create a whole web page, in which in the form of a paragraph,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 195.88,
+            "end": 198.88,
+            "text": " this is a paragraph line, it will start displaying."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 198.88,
+            "end": 202.88,
+            "text": " Similarly, let's assume that I want to show some heading on my web page,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 203.07999999999998,
+            "end": 206.07999999999998,
+            "text": " to show some heading, I want to show the heading of H1 type,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 206.07999999999998,
+            "end": 211.07999999999998,
+            "text": " so I will write the opening tag of H1, and I will write the closing tag of H1."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 211.07999999999998,
+            "end": 215.07999999999998,
+            "text": " And whatever material comes in this tag, let's assume that I write heading large."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 215.07999999999998,
+            "end": 221.07999999999998,
+            "text": " So whatever I have written inside, will be displayed on my web page in the form of a heading."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 221.07999999999998,
+            "end": 226.07999999999998,
+            "text": " If I want to show a word, bold, and highlight it a little,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 226.07999999999998,
+            "end": 229.07999999999998,
+            "text": " then for bold, we use B tag in HTML."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 229.07999999999998,
+            "end": 232.07999999999998,
+            "text": " So this will be my opening B tag, this will be my closing bold tag,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 232.28,
+            "end": 236.28,
+            "text": " and whatever I will write inside this, let's assume that I have written bold word."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 236.28,
+            "end": 240.28,
+            "text": " So when this will be displayed on my website, then this will be displayed in bold form."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 240.28,
+            "end": 245.28,
+            "text": " Similarly, if I want to underline a word, then I can show it in underline tag."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 245.28,
+            "end": 249.28,
+            "text": " If I want to display a word in italic, then I can put it in italics tag."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 249.28,
+            "end": 252.28,
+            "text": " So there are many multiple tags in HTML."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 252.28,
+            "end": 255.28,
+            "text": " I don't need to remember these tags yet."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 255.28,
+            "end": 258.28000000000003,
+            "text": " These are so simple tags, so intuitive tags,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 258.28000000000003,
+            "end": 261.28000000000003,
+            "text": " and we are going to use them so many times that we will remember them automatically."
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 261.47999999999996,
+            "end": 264.47999999999996,
+            "text": " We just need to understand that there is a part of HTML tag,"
+        },
+        {
+            "number": "02",
+            "title": "HTML Elements & Tags",
+            "start": 264.47999999999996,
+            "end": 267.47999999999996,
+            "text": " which is opening, closing, and inside it, we get all the contents."
+        }
+    ],
+    "text": " Now let's talk about any website, if I want to display some information, how do we display it? There are elements in HTML, that is, if I want to show that there will be a paragraph or image on my website, or if I want to get some heading, then we create HTML elements for that. HTML elements are standard elements that are recognized by our browser. My browser knows what is going to be the paragraph in HTML, what is going to be the heading, or if I am trying to create an image, what is going to be that in HTML? So usually to show these elements, we use the HTML tags. For example, if I talk about the paragraph, to write the paragraph in HTML, I write P in this way, and in the ending, I write P with slash in this way. And this is what comes in the Angular brackets, means less than and greater than the signers call it Angular brackets, if I write P in it, and here it will start, it will end, now in the tags, whatever I write, let's assume that I wrote ABCD, this ABCD is going to be displayed on my website like a paragraph. Similarly, if I want to show heading on my website, then I can write tag for it, let's assume that I want to show the heading of H1 level, there are levels in the heading, 6 different levels. If I want to show the heading of H1 level, then I will write H1 in this way, and whatever I am going to write in it, it will start showing on my website like a big heading. So in this way, if I want to create different elements, then for them, I have to use different different HTML tags, and the task of these tags is to design the structure of my website. So from here, we have to remember the basic thing, that if I want to display something on my website, then for that we need elements, and to create different elements in HTML, we use our HTML tags. So let's talk in detail about HTML tags, what are the HTML tags? We can consider an HTML tag as a container, meaning any content, any text, if I want to display something on a website, then to contain it, I should have a container, and we call this container as tag. For example, if I take a simple paragraph tag, we write paragraph tag in this way, in which the beginning is called opening tag, and in the last one, we call it closing tag. So here if P is written in the angular brackets, P means paragraph in HTML, and again in closing tag, there are angular brackets, but here there is a slash, which shows that this tag is ending here. And in between these tags, we call whatever comes, our content. Meaning the content of the entire material, the content of the entire paragraph, will now be displayed on my website, and this opening tag, content, and closing tag combination, we call it an HTML element. So it is a very simple hierarchy, that HTML tags are one my opening tag, one my closing tag, and in between, our content of HTML comes, and when we mix tags and content, we call it an HTML element. Now as soon as I write this thing on my web browser, in my HTML document, as soon as I create a whole web page, in which in the form of a paragraph, this is a paragraph line, it will start displaying. Similarly, let's assume that I want to show some heading on my web page, to show some heading, I want to show the heading of H1 type, so I will write the opening tag of H1, and I will write the closing tag of H1. And whatever material comes in this tag, let's assume that I write heading large. So whatever I have written inside, will be displayed on my web page in the form of a heading. If I want to show a word, bold, and highlight it a little, then for bold, we use B tag in HTML. So this will be my opening B tag, this will be my closing bold tag, and whatever I will write inside this, let's assume that I have written bold word. So when this will be displayed on my website, then this will be displayed in bold form. Similarly, if I want to underline a word, then I can show it in underline tag. If I want to display a word in italic, then I can put it in italics tag. So there are many multiple tags in HTML. I don't need to remember these tags yet. These are so simple tags, so intuitive tags, and we are going to use them so many times that we will remember them automatically. We just need to understand that there is a part of HTML tag, which is opening, closing, and inside it, we get all the contents."
+}

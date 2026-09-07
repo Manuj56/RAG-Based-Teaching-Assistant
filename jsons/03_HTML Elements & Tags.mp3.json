@@ -1,0 +1,1244 @@
+{
+    "chunks": [
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 0.0,
+            "end": 2.72,
+            "text": " Now we will start coding in HTML."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 2.72,
+            "end": 6.32,
+            "text": " First of all, usually if we learn any new programming language,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 6.32,
+            "end": 9.84,
+            "text": " we will first write a program for Hello World."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 9.84,
+            "end": 13.76,
+            "text": " So we will also write a program for Hello World in HTML."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 13.76,
+            "end": 18.88,
+            "text": " To write things in HTML, we will first have to create an HTML file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 18.88,
+            "end": 22.88,
+            "text": " So the Visual Studio Code or any editor that you have downloaded,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 22.88,
+            "end": 25.04,
+            "text": " first of all we will open it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 25.04,
+            "end": 28.0,
+            "text": " Now here I see a lot of things in recent,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 28.0,
+            "end": 32.8,
+            "text": " it may not be visible to you because I have been using Visual Studio Code for a long time."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 32.8,
+            "end": 34.24,
+            "text": " So these are my recent files."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 34.24,
+            "end": 38.480000000000004,
+            "text": " But if you have installed them, then the recent option will not be available for you."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 38.480000000000004,
+            "end": 42.32,
+            "text": " We will start by creating a new file option on this code."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 42.32,
+            "end": 44.8,
+            "text": " First of all, we will click on the new file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 44.8,
+            "end": 47.36,
+            "text": " I am going to start with a text file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 47.36,
+            "end": 51.2,
+            "text": " I have created a file, its name is untitled."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 51.2,
+            "end": 52.64,
+            "text": " I am going to save it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 52.64,
+            "end": 56.0,
+            "text": " To save this file, I am going to give its name."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 56.08,
+            "end": 57.76,
+            "text": " Hello."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 57.76,
+            "end": 60.96,
+            "text": " Yes, I will tell it Hello World.html."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 60.96,
+            "end": 63.84,
+            "text": " I saved it as Hello World.html."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 63.84,
+            "end": 68.16,
+            "text": " Now we call this .html extension."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 68.16,
+            "end": 71.2,
+            "text": " Extension means added things in the last."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 71.2,
+            "end": 76.32,
+            "text": " If I create an HTML file, then I will have to finish it with .html in the last."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 76.32,
+            "end": 79.68,
+            "text": " If I create a Java file, then I have to finish it with .java in the last."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 79.68,
+            "end": 82.48,
+            "text": " I have to finish it with C++."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 82.48,
+            "end": 84.72,
+            "text": " So I have to finish it with .cpp."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 84.72,
+            "end": 86.88,
+            "text": " Next, we will create a JavaScript file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 86.88,
+            "end": 89.12,
+            "text": " So we will finish the file with .js."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 89.12,
+            "end": 95.36,
+            "text": " So by looking at the extension of a file, we get to know which language is written in this file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 95.36,
+            "end": 98.64,
+            "text": " If it is a Python file, then we will finish it with .py."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 98.64,
+            "end": 101.84,
+            "text": " Here, .html is our HTML file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 101.84,
+            "end": 107.03999999999999,
+            "text": " We could have kept its name, its name, we could have kept its name, its name, I could have kept it with my name,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 107.03999999999999,
+            "end": 108.64,
+            "text": " I could have kept my college."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 108.64,
+            "end": 112.0,
+            "text": " Here, I have kept the name of this file, Hello World.html."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 112.0,
+            "end": 114.64,
+            "text": " And it will be visible in the top VSCode."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 114.72,
+            "end": 119.36,
+            "text": " My user folder is in it, my folder is in it, and my file is created in it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 119.36,
+            "end": 121.68,
+            "text": " So I have got the path of this file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 121.68,
+            "end": 128.08,
+            "text": " If you have a Windows system, you can see the path on it, where it is created."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 128.08,
+            "end": 131.68,
+            "text": " What I am going to do is, I will create a paragraph tag."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 131.68,
+            "end": 135.68,
+            "text": " To create a paragraph tag, I wrote something like this."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 135.68,
+            "end": 139.28,
+            "text": " This is my opening tag, this is my closing tag."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 139.28,
+            "end": 143.52,
+            "text": " Now here in the middle, I am going to write Hello World."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 143.60000000000002,
+            "end": 147.76000000000002,
+            "text": " So in this way, I have created a paragraph element."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 147.76000000000002,
+            "end": 150.72,
+            "text": " In which, this is my opening tag, then there is my content."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 150.72,
+            "end": 152.8,
+            "text": " What is written in the content, Hello World."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 152.8,
+            "end": 154.88,
+            "text": " And finally, my closing tag has come."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 154.88,
+            "end": 156.48000000000002,
+            "text": " I have done it, save it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 156.48000000000002,
+            "end": 158.88,
+            "text": " Now I have to see what its output will be."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 158.88,
+            "end": 162.64000000000001,
+            "text": " I have made an HTML file, so with the help of this HTML file,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 162.64000000000001,
+            "end": 165.36,
+            "text": " it should be a web page, it should be a website."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 165.36,
+            "end": 168.88,
+            "text": " Now, the website is a very big thing, in which front-end comes, back-end comes,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 168.88,
+            "end": 170.96,
+            "text": " databases come, a lot of things come."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 171.04000000000002,
+            "end": 174.56,
+            "text": " So here, I am using the website word for your simplicity,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 174.56,
+            "end": 178.72,
+            "text": " because HTML does not become a website, it will create a web page from HTML,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 178.72,
+            "end": 181.12,
+            "text": " which is a small page of the entire website."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 181.12,
+            "end": 184.32,
+            "text": " Now here, I have written the code, to run it, I will go there,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 184.32,
+            "end": 186.4,
+            "text": " where my file is saved."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 186.4,
+            "end": 189.04000000000002,
+            "text": " So I am going to search for my folder."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 189.04000000000002,
+            "end": 195.12,
+            "text": " This is my folder opened, and in it, if I search, Hello World.html."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 195.12,
+            "end": 197.20000000000002,
+            "text": " So I have got this file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 197.20000000000002,
+            "end": 199.84,
+            "text": " This file was created in this folder."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 199.84,
+            "end": 203.44,
+            "text": " And as soon as I double-click on this file, or open it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 203.44,
+            "end": 205.44,
+            "text": " then this whole website opened for me."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 205.44,
+            "end": 208.56,
+            "text": " My entire code of the VS code, that is, this code,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 208.56,
+            "end": 210.96,
+            "text": " created by this website, which looks like this,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 210.96,
+            "end": 213.12,
+            "text": " this web page which it has created, which looks like this,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 213.12,
+            "end": 215.2,
+            "text": " and I am also seeing the path of it in the browsers,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 215.2,
+            "end": 216.8,
+            "text": " that users go inside the folder,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 216.8,
+            "end": 220.0,
+            "text": " Shraddha goes inside the folder, this HTML file is created,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 220.0,
+            "end": 221.36,
+            "text": " this is its output."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 221.36,
+            "end": 223.36,
+            "text": " So with the help of the paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 223.36,
+            "end": 227.2,
+            "text": " I was able to print Hello World on my web page."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 227.28,
+            "end": 230.32,
+            "text": " Now the same thing, that is, I have written this in a paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 230.32,
+            "end": 233.11999999999998,
+            "text": " by copying this on the second line, what can I do?"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 233.11999999999998,
+            "end": 235.11999999999998,
+            "text": " I can write my name here."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 235.11999999999998,
+            "end": 239.11999999999998,
+            "text": " If I write my name here, and now if I save it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 239.11999999999998,
+            "end": 241.92,
+            "text": " here in HTML, I have saved it, to save it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 241.92,
+            "end": 245.44,
+            "text": " I have pressed Command S, you can also press Control S."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 245.44,
+            "end": 248.39999999999998,
+            "text": " I have saved it here, and as soon as I refresh it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 248.39999999999998,
+            "end": 250.88,
+            "text": " then one paragraph has been printed by Hello World,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 250.88,
+            "end": 254.56,
+            "text": " and the next paragraph has been printed on the next line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 254.64000000000001,
+            "end": 258.08,
+            "text": " in the same way, I can create another paragraph element,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 258.08,
+            "end": 260.0,
+            "text": " which I am going to print inside,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 260.0,
+            "end": 261.76,
+            "text": " my college."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 261.76,
+            "end": 264.64,
+            "text": " Now here, I save it and refresh it again,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 264.64,
+            "end": 266.64,
+            "text": " so with the help of the third paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 266.64,
+            "end": 268.72,
+            "text": " my college has been printed on the third line."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 268.72,
+            "end": 271.2,
+            "text": " So about the paragraph tag, we learned that"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 271.2,
+            "end": 273.44,
+            "text": " if anything is printed with the paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 273.44,
+            "end": 276.96,
+            "text": " then it is directly shown on our screen,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 276.96,
+            "end": 279.68,
+            "text": " along with that, if we use multiple paragraph tags,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 279.68,
+            "end": 282.56,
+            "text": " then each paragraph tag starts with a new line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 282.56,
+            "end": 284.56,
+            "text": " so it is not like, after Hello World,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 284.56,
+            "end": 286.56,
+            "text": " your paragraph has been printed in this line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 286.56,
+            "end": 288.56,
+            "text": " your college has been printed on the next line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 288.56,
+            "end": 290.56,
+            "text": " and your college has been printed on the next line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 290.56,
+            "end": 292.56,
+            "text": " if I had to print all these things on the same line,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 292.56,
+            "end": 295.68,
+            "text": " then I would not have used different paragraph tags."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 295.68,
+            "end": 299.68,
+            "text": " Then I would have cut all the information,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 299.68,
+            "end": 303.68,
+            "text": " and I would have been printing in the same paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 303.68,
+            "end": 305.68,
+            "text": " in some way."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 305.68,
+            "end": 307.68,
+            "text": " I would have cut it and paste it here,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 307.68,
+            "end": 309.68,
+            "text": " and if a single paragraph tag was there,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 309.68,
+            "end": 313.68,
+            "text": " then my information would have been shown like this."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 313.68,
+            "end": 315.68,
+            "text": " So in this way, we create an HTML file,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 315.68,
+            "end": 319.68,
+            "text": " and start coding it in it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 319.68,
+            "end": 321.68,
+            "text": " Here, I will give you a small question,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 321.68,
+            "end": 323.68,
+            "text": " what you have to do is, with the help of the paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 323.68,
+            "end": 325.68,
+            "text": " you have to print your name on your browser."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 325.68,
+            "end": 327.68,
+            "text": " So once you have to write the paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 327.68,
+            "end": 329.68,
+            "text": " you have to write your name in it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 329.68,
+            "end": 331.68,
+            "text": " then you have to see how you can display your name on your webpage."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 331.68,
+            "end": 335.68,
+            "text": " Now, one more thing that we have to learn about the HTML code,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 335.68,
+            "end": 337.68,
+            "text": " that all these things have formed my webpage,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 337.68,
+            "end": 341.68,
+            "text": " this webpage will run only in my computer."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 341.68,
+            "end": 343.68,
+            "text": " For example, websites are online,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 343.68,
+            "end": 345.68,
+            "text": " if you want to open amazon.com or google.com,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 345.68,
+            "end": 347.68,
+            "text": " you can open it from your computer,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 347.68,
+            "end": 349.68,
+            "text": " I can open it from my computer too."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 349.68,
+            "end": 351.68,
+            "text": " But the web page created by this specific HTML,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 351.68,
+            "end": 353.68,
+            "text": " can be opened only in my computer,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 353.68,
+            "end": 357.68,
+            "text": " because its HTML file is present only in my computer."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 357.68,
+            "end": 359.68,
+            "text": " If we want to put things on the internet,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 359.68,
+            "end": 361.68,
+            "text": " and make our web page in this way,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 361.68,
+            "end": 363.68,
+            "text": " that anyone can access it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 363.68,
+            "end": 365.68,
+            "text": " anyone can open it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 365.68,
+            "end": 367.68,
+            "text": " then we have to learn about the domains,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 367.68,
+            "end": 369.68,
+            "text": " we have to learn about hosting,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 369.68,
+            "end": 371.68,
+            "text": " which are some advanced things that we will learn later."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 371.68,
+            "end": 373.68,
+            "text": " So for now, all the web pages,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 373.68,
+            "end": 375.68,
+            "text": " websites, all the things we are creating,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 375.68,
+            "end": 377.68,
+            "text": " they are all to be opened in our browser,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 377.68,
+            "end": 379.68,
+            "text": " because their files are present in our computer."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 379.68,
+            "end": 381.68,
+            "text": " Now, if I want,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 381.68,
+            "end": 383.68,
+            "text": " by right clicking on this page,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 383.68,
+            "end": 385.68,
+            "text": " I can inspect it too."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 385.68,
+            "end": 387.68,
+            "text": " As soon as I inspect, what will you see?"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 387.68,
+            "end": 389.68,
+            "text": " You will see the entire HTML code."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 389.68,
+            "end": 391.68,
+            "text": " In the HTML code,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 391.68,
+            "end": 393.68,
+            "text": " you will see a paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 393.68,
+            "end": 395.68,
+            "text": " and all the things are written in the same way,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 395.68,
+            "end": 397.68,
+            "text": " as we have written in our VSCode file."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 397.68,
+            "end": 399.68,
+            "text": " But here, you will see different tags,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 399.68,
+            "end": 401.68,
+            "text": " a different HTML tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 401.68,
+            "end": 403.68,
+            "text": " a different tag, a different tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 403.68,
+            "end": 405.68,
+            "text": " a different tag, a different tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 405.68,
+            "end": 407.68,
+            "text": " about all these tags,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 407.68,
+            "end": 409.68,
+            "text": " we are going to read them,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 409.68,
+            "end": 411.68,
+            "text": " so don't worry about it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 411.68,
+            "end": 413.68,
+            "text": " But the major thing that is happening,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 413.68,
+            "end": 415.68,
+            "text": " is this paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 415.68,
+            "end": 417.68,
+            "text": " which contains a lot of information."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 417.68,
+            "end": 419.68,
+            "text": " Now, if I agree with this,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 419.68,
+            "end": 421.68,
+            "text": " I have written a lot of words."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 421.68,
+            "end": 423.68,
+            "text": " So, I can use my bold tag for that."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 423.68,
+            "end": 425.68,
+            "text": " To write bold tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 425.68,
+            "end": 427.68,
+            "text": " I can write tags in tags too."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 427.68,
+            "end": 429.68,
+            "text": " For example, in this paragraph tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 429.68,
+            "end": 431.68,
+            "text": " I want to make my college bold."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 431.68,
+            "end": 433.68,
+            "text": " So, I have written B."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 433.68,
+            "end": 435.68,
+            "text": " This is the opening tag of B,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 435.68,
+            "end": 437.68,
+            "text": " and I am going to write its closing tag"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 437.68,
+            "end": 439.68,
+            "text": " after my college."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 439.68,
+            "end": 441.68,
+            "text": " So, in this way, my paragraph tag is outside,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 441.68,
+            "end": 443.68,
+            "text": " and inside it,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 443.68,
+            "end": 445.68,
+            "text": " my bold tag, which contains"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 445.68,
+            "end": 447.68,
+            "text": " the material inside the bold tag,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 447.68,
+            "end": 449.68,
+            "text": " means it is my college,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 449.68,
+            "end": 451.68,
+            "text": " and it will be written."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 451.68,
+            "end": 453.68,
+            "text": " Let's do this once, save and refresh."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 453.68,
+            "end": 455.68,
+            "text": " So, all the other tags are normally displayed,"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 455.68,
+            "end": 457.68,
+            "text": " but our college has displayed them in bold."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 457.68,
+            "end": 459.68,
+            "text": " So, in this way, you can"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 459.68,
+            "end": 461.68,
+            "text": " display your text in bold"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 461.68,
+            "end": 463.68,
+            "text": " or highlight it."
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 463.68,
+            "end": 465.68,
+            "text": " We can display it in bold"
+        },
+        {
+            "number": "03",
+            "title": "HTML Elements & Tags",
+            "start": 465.68,
+            "end": 467.68,
+            "text": " with the help of B tag."
+        }
+    ],
+    "text": " Now we will start coding in HTML. First of all, usually if we learn any new programming language, we will first write a program for Hello World. So we will also write a program for Hello World in HTML. To write things in HTML, we will first have to create an HTML file. So the Visual Studio Code or any editor that you have downloaded, first of all we will open it. Now here I see a lot of things in recent, it may not be visible to you because I have been using Visual Studio Code for a long time. So these are my recent files. But if you have installed them, then the recent option will not be available for you. We will start by creating a new file option on this code. First of all, we will click on the new file. I am going to start with a text file. I have created a file, its name is untitled. I am going to save it. To save this file, I am going to give its name. Hello. Yes, I will tell it Hello World.html. I saved it as Hello World.html. Now we call this .html extension. Extension means added things in the last. If I create an HTML file, then I will have to finish it with .html in the last. If I create a Java file, then I have to finish it with .java in the last. I have to finish it with C++. So I have to finish it with .cpp. Next, we will create a JavaScript file. So we will finish the file with .js. So by looking at the extension of a file, we get to know which language is written in this file. If it is a Python file, then we will finish it with .py. Here, .html is our HTML file. We could have kept its name, its name, we could have kept its name, its name, I could have kept it with my name, I could have kept my college. Here, I have kept the name of this file, Hello World.html. And it will be visible in the top VSCode. My user folder is in it, my folder is in it, and my file is created in it. So I have got the path of this file. If you have a Windows system, you can see the path on it, where it is created. What I am going to do is, I will create a paragraph tag. To create a paragraph tag, I wrote something like this. This is my opening tag, this is my closing tag. Now here in the middle, I am going to write Hello World. So in this way, I have created a paragraph element. In which, this is my opening tag, then there is my content. What is written in the content, Hello World. And finally, my closing tag has come. I have done it, save it. Now I have to see what its output will be. I have made an HTML file, so with the help of this HTML file, it should be a web page, it should be a website. Now, the website is a very big thing, in which front-end comes, back-end comes, databases come, a lot of things come. So here, I am using the website word for your simplicity, because HTML does not become a website, it will create a web page from HTML, which is a small page of the entire website. Now here, I have written the code, to run it, I will go there, where my file is saved. So I am going to search for my folder. This is my folder opened, and in it, if I search, Hello World.html. So I have got this file. This file was created in this folder. And as soon as I double-click on this file, or open it, then this whole website opened for me. My entire code of the VS code, that is, this code, created by this website, which looks like this, this web page which it has created, which looks like this, and I am also seeing the path of it in the browsers, that users go inside the folder, Shraddha goes inside the folder, this HTML file is created, this is its output. So with the help of the paragraph tag, I was able to print Hello World on my web page. Now the same thing, that is, I have written this in a paragraph tag, by copying this on the second line, what can I do? I can write my name here. If I write my name here, and now if I save it, here in HTML, I have saved it, to save it, I have pressed Command S, you can also press Control S. I have saved it here, and as soon as I refresh it, then one paragraph has been printed by Hello World, and the next paragraph has been printed on the next line, in the same way, I can create another paragraph element, which I am going to print inside, my college. Now here, I save it and refresh it again, so with the help of the third paragraph tag, my college has been printed on the third line. So about the paragraph tag, we learned that if anything is printed with the paragraph tag, then it is directly shown on our screen, along with that, if we use multiple paragraph tags, then each paragraph tag starts with a new line, so it is not like, after Hello World, your paragraph has been printed in this line, your college has been printed on the next line, and your college has been printed on the next line, if I had to print all these things on the same line, then I would not have used different paragraph tags. Then I would have cut all the information, and I would have been printing in the same paragraph tag, in some way. I would have cut it and paste it here, and if a single paragraph tag was there, then my information would have been shown like this. So in this way, we create an HTML file, and start coding it in it. Here, I will give you a small question, what you have to do is, with the help of the paragraph tag, you have to print your name on your browser. So once you have to write the paragraph tag, you have to write your name in it, then you have to see how you can display your name on your webpage. Now, one more thing that we have to learn about the HTML code, that all these things have formed my webpage, this webpage will run only in my computer. For example, websites are online, if you want to open amazon.com or google.com, you can open it from your computer, I can open it from my computer too. But the web page created by this specific HTML, can be opened only in my computer, because its HTML file is present only in my computer. If we want to put things on the internet, and make our web page in this way, that anyone can access it, anyone can open it, then we have to learn about the domains, we have to learn about hosting, which are some advanced things that we will learn later. So for now, all the web pages, websites, all the things we are creating, they are all to be opened in our browser, because their files are present in our computer. Now, if I want, by right clicking on this page, I can inspect it too. As soon as I inspect, what will you see? You will see the entire HTML code. In the HTML code, you will see a paragraph tag, and all the things are written in the same way, as we have written in our VSCode file. But here, you will see different tags, a different HTML tag, a different tag, a different tag, a different tag, a different tag, about all these tags, we are going to read them, so don't worry about it. But the major thing that is happening, is this paragraph tag, which contains a lot of information. Now, if I agree with this, I have written a lot of words. So, I can use my bold tag for that. To write bold tag, I can write tags in tags too. For example, in this paragraph tag, I want to make my college bold. So, I have written B. This is the opening tag of B, and I am going to write its closing tag after my college. So, in this way, my paragraph tag is outside, and inside it, my bold tag, which contains the material inside the bold tag, means it is my college, and it will be written. Let's do this once, save and refresh. So, all the other tags are normally displayed, but our college has displayed them in bold. So, in this way, you can display your text in bold or highlight it. We can display it in bold with the help of B tag."
+}

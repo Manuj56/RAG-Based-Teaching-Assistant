@@ -1,0 +1,418 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 0.0,
+            "end": 3.2,
+            "text": " Now, let's talk about paragraph element."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 3.2,
+            "end": 9.700000000000001,
+            "text": " To create paragraph element, we use p tag in HTML, which represents a paragraph."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 9.700000000000001,
+            "end": 13.700000000000001,
+            "text": " Whenever we talk about paragraph, it doesn't mean only text."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 13.700000000000001,
+            "end": 18.2,
+            "text": " Paragraph means that we have to display all the content that we want to display."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 18.2,
+            "end": 22.7,
+            "text": " So, it's not necessary that we have text, but we can have bold text."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 22.7,
+            "end": 27.400000000000002,
+            "text": " We can have a paragraph, but we want to display image and text together."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 27.5,
+            "end": 32.9,
+            "text": " So, we use paragraph tag for all the content that we want to display."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 32.9,
+            "end": 36.9,
+            "text": " Paragraph tag is another special thing that creates space."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 36.9,
+            "end": 37.9,
+            "text": " How?"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 37.9,
+            "end": 40.9,
+            "text": " Let's look at our HTML file."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 40.9,
+            "end": 47.9,
+            "text": " I have written paragraph tags in my file and I am going to write this is my first paragraph."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 47.9,
+            "end": 51.599999999999994,
+            "text": " After writing my first paragraph, I had a lot of space."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 51.599999999999994,
+            "end": 56.4,
+            "text": " And the things that I am going to write next, this is my second paragraph."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 56.4,
+            "end": 59.9,
+            "text": " Now, I am going to display this by giving a line space."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 59.9,
+            "end": 60.9,
+            "text": " Let's save it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 60.9,
+            "end": 66.9,
+            "text": " And as soon as I saved it, automatically, all this information came on the same line."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 66.9,
+            "end": 67.9,
+            "text": " Why is this happening?"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 67.9,
+            "end": 72.9,
+            "text": " If you are saving it in your VSCode and if you are trying to save it on the next line,"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 72.9,
+            "end": 76.9,
+            "text": " and things are not coming on the same line, then the output is going to be the same."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 76.9,
+            "end": 82.4,
+            "text": " If I write two paragraphs in paragraph, then all the information comes on the same line."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 82.4,
+            "end": 85.9,
+            "text": " Let's assume that I gave a lot of space here and now I saved it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 86.4,
+            "end": 88.4,
+            "text": " Then automatically, it is coming there."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 88.4,
+            "end": 92.9,
+            "text": " From here, the conclusion comes out that HTML, which gives more than one space or"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 92.9,
+            "end": 97.9,
+            "text": " wants to display things on the next line more than one, doesn't recognize HTML."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 97.9,
+            "end": 103.9,
+            "text": " If you have written things in a single paragraph tag, then all those things will be displayed in one"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 103.9,
+            "end": 109.4,
+            "text": " or six displays, that is, they will be displayed in a single line, no matter how big you display things in a line."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 109.4,
+            "end": 115.4,
+            "text": " I mean, if I want to copy and paste the same thing again and again, then I will do it safely."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 115.4,
+            "end": 120.4,
+            "text": " And now if I refresh it, then all the things will be displayed one after another."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 120.4,
+            "end": 126.9,
+            "text": " But if I want a little space in displaying these things, then I will have to create a new paragraph tag."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 126.9,
+            "end": 134.4,
+            "text": " For example, if I remove half the information from here and then write a paragraph tag, then I can display all this information in it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 134.4,
+            "end": 136.4,
+            "text": " And now things will be on two different lines."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 136.4,
+            "end": 144.4,
+            "text": " So usually, if this is one set of information and this is my second set of information and if I want to display both in different paragraphs,"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 144.4,
+            "end": 147.4,
+            "text": " then I will have to use two paragraphs tags."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 147.4,
+            "end": 153.4,
+            "text": " That is why we use paragraph tags to connect or display related information or content."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 153.4,
+            "end": 156.4,
+            "text": " So this is my first paragraph, it has related information in it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 156.4,
+            "end": 159.4,
+            "text": " This is my second paragraph, it has related information in it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 159.4,
+            "end": 168.4,
+            "text": " If you want, no, I will write things in the next line in a single paragraph tag and display these things in the next line in HTML."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 168.4,
+            "end": 171.4,
+            "text": " When my web page will be created, then this will not happen."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 171.4,
+            "end": 176.4,
+            "text": " You can give any extra space or extra line here, HTML ignores all of them."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 176.4,
+            "end": 178.4,
+            "text": " HTML only recognizes tags."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 178.4,
+            "end": 184.4,
+            "text": " If things are written in paragraph tags, then extra space or extra line HTML will not add you."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 184.4,
+            "end": 188.4,
+            "text": " It will gather all the things and present them together."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 188.4,
+            "end": 194.4,
+            "text": " That is why we have to use multiple tags to display multiple related content."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 194.4,
+            "end": 195.4,
+            "text": " So let's do this once, save."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 195.4,
+            "end": 199.4,
+            "text": " Now here also, this last paragraph, if I want to show it in bold,"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 199.4,
+            "end": 204.4,
+            "text": " then here I can use bold tag and cut the last paragraph, last line."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 204.4,
+            "end": 208.4,
+            "text": " I cut this whole line and paste it in bold tag."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 208.4,
+            "end": 212.4,
+            "text": " So here this is my normal paragraph, this is my normal paragraph."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 212.4,
+            "end": 216.4,
+            "text": " And in the second paragraph, I have written the whole line in bold."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 216.4,
+            "end": 221.4,
+            "text": " Now if I refresh it, then this is my first paragraph printed, this is my second paragraph printed."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 221.4,
+            "end": 224.4,
+            "text": " And here the last line is represented in my bold."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 224.4,
+            "end": 232.4,
+            "text": " In one tag, when we write another tag, then this phenomenon is called nesting in programming language."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 232.4,
+            "end": 236.4,
+            "text": " Nesting and these are my tags, we will call them nested tags."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 236.4,
+            "end": 240.4,
+            "text": " So nesting means when there is something in one thing, then there is something else."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 240.4,
+            "end": 246.4,
+            "text": " So in one tag, like nest, that is the nest of a bird, then there are small birds in it."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 246.4,
+            "end": 249.4,
+            "text": " Similarly, we can imagine that there is a big tag in the paragraph,"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 249.4,
+            "end": 255.4,
+            "text": " and in that I have added another tag, that is, I have added a small bold tag,"
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 255.4,
+            "end": 260.4,
+            "text": " added an image tag or added another tag, then that will become a phenomenon of nesting."
+        },
+        {
+            "number": "04",
+            "title": "HTML Elements & Tags",
+            "start": 260.4,
+            "end": 262.4,
+            "text": " So we will call them nested tags."
+        }
+    ],
+    "text": " Now, let's talk about paragraph element. To create paragraph element, we use p tag in HTML, which represents a paragraph. Whenever we talk about paragraph, it doesn't mean only text. Paragraph means that we have to display all the content that we want to display. So, it's not necessary that we have text, but we can have bold text. We can have a paragraph, but we want to display image and text together. So, we use paragraph tag for all the content that we want to display. Paragraph tag is another special thing that creates space. How? Let's look at our HTML file. I have written paragraph tags in my file and I am going to write this is my first paragraph. After writing my first paragraph, I had a lot of space. And the things that I am going to write next, this is my second paragraph. Now, I am going to display this by giving a line space. Let's save it. And as soon as I saved it, automatically, all this information came on the same line. Why is this happening? If you are saving it in your VSCode and if you are trying to save it on the next line, and things are not coming on the same line, then the output is going to be the same. If I write two paragraphs in paragraph, then all the information comes on the same line. Let's assume that I gave a lot of space here and now I saved it. Then automatically, it is coming there. From here, the conclusion comes out that HTML, which gives more than one space or wants to display things on the next line more than one, doesn't recognize HTML. If you have written things in a single paragraph tag, then all those things will be displayed in one or six displays, that is, they will be displayed in a single line, no matter how big you display things in a line. I mean, if I want to copy and paste the same thing again and again, then I will do it safely. And now if I refresh it, then all the things will be displayed one after another. But if I want a little space in displaying these things, then I will have to create a new paragraph tag. For example, if I remove half the information from here and then write a paragraph tag, then I can display all this information in it. And now things will be on two different lines. So usually, if this is one set of information and this is my second set of information and if I want to display both in different paragraphs, then I will have to use two paragraphs tags. That is why we use paragraph tags to connect or display related information or content. So this is my first paragraph, it has related information in it. This is my second paragraph, it has related information in it. If you want, no, I will write things in the next line in a single paragraph tag and display these things in the next line in HTML. When my web page will be created, then this will not happen. You can give any extra space or extra line here, HTML ignores all of them. HTML only recognizes tags. If things are written in paragraph tags, then extra space or extra line HTML will not add you. It will gather all the things and present them together. That is why we have to use multiple tags to display multiple related content. So let's do this once, save. Now here also, this last paragraph, if I want to show it in bold, then here I can use bold tag and cut the last paragraph, last line. I cut this whole line and paste it in bold tag. So here this is my normal paragraph, this is my normal paragraph. And in the second paragraph, I have written the whole line in bold. Now if I refresh it, then this is my first paragraph printed, this is my second paragraph printed. And here the last line is represented in my bold. In one tag, when we write another tag, then this phenomenon is called nesting in programming language. Nesting and these are my tags, we will call them nested tags. So nesting means when there is something in one thing, then there is something else. So in one tag, like nest, that is the nest of a bird, then there are small birds in it. Similarly, we can imagine that there is a big tag in the paragraph, and in that I have added another tag, that is, I have added a small bold tag, added an image tag or added another tag, then that will become a phenomenon of nesting. So we will call them nested tags."
+}

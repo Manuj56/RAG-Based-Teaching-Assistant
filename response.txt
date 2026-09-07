@@ -1,0 +1,7 @@
+Hi there! I'd be happy to help you with your Sigma web development course.
+
+You're curious about where HTML is taught? Well, according to our course material, in some schools, HTML is actually introduced as early as 7th or 8th class. It's a good starting point for understanding the basics of web development.
+
+If you'd like to learn more about how much content is covered in each video, I can guide you through it. For example, in Video 1, we start by introducing HTML itself (from timestamp 6.6 seconds). Then, we move on to talk about HTML tags and coding in detail (starting from timestamp 0.0 seconds).
+
+If you're interested in learning more about HTML elements and tags, I recommend checking out Video 2, where we dive deeper into the world of HTML tags (starting from timestamp 109.2 seconds).
